@@ -1,2 +1,4 @@
 ---
 name: a_project
+modules:
+  - puppetlabs/apache
